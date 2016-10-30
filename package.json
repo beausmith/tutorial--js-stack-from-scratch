@@ -1,0 +1,10 @@
+{
+  "name": "js-stack-from-scratch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Beau Smith <beau@beausmith.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ."
+  }
+}
