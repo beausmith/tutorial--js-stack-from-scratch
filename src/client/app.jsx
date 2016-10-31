@@ -2,7 +2,8 @@
 
 import React from 'react'
 import ReactDOM from 'react-dom'
-import { createStore, combineReducers } from 'redux'
+import { createStore } from 'redux'
+import { combineReducers } from 'redux-immutable'
 import { Provider } from 'react-redux'
 import dogReducer from './reducers/dog-reducer'
 import BarkMessage from './containers/bark-message'
